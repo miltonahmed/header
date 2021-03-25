@@ -1,0 +1,55 @@
+/* Common start */
+/* Common end */
+
+/* header start */
+header{
+
+}
+.container {
+    margin: 0 auto;
+    width: 80%;
+    
+    overflow: hidden;
+}
+
+.logo {
+    width: 17%;
+    /* border: 1px solid black; */
+    
+    float: left;
+
+}
+.logo a {
+
+}
+.logo a img{
+
+}
+
+.menu {
+    width: 80%;
+    /* border: 1px solid black; */
+    float: right;
+    
+}
+.menu ul{
+    float: right;
+    
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    padding: 0 10px;
+}
+   
+}
+} 
+.menu ul li a {
+    
+}
+}
+.menu ul li a :hover{}
+.menu ul li :last-child{
+    padding: 0;
+} 
+/* header ends */
